@@ -6,7 +6,7 @@
 
     | Tech Stack | Team | Ref |
     | :---: | :---: | :---: |
-    | ![My Skills](https://skillicons.dev/icons?i=rails,postgres,docker,nginx,rabbitmq) | 개인 | [Portfollio](https://github.com/rookedsysc/ruby-on-railgun/tree/main/simple-board#blog-posting)<br></br>[Velog Posting](https://velog.io/@rookedsysc/series/RoR-%EC%9A%95%EC%84%A4%ED%83%90%EC%A7%80-%EC%8B%9C%EC%8A%A4%ED%85%9C) <br></br>[Issue](https://github.com/rookedsysc/ruby-on-railgun/issues/2) |
+    | ![My Skills](https://skillicons.dev/icons?i=rails,postgres,docker,nginx,rabbitmq) | 개인 | [Portfollio](https://github.com/rookedsysc/ruby-on-railgun/tree/main/simple-board#blog-posting)</br>[Velog Posting](https://velog.io/@rookedsysc/series/RoR-%EC%9A%95%EC%84%A4%ED%83%90%EC%A7%80-%EC%8B%9C%EC%8A%A4%ED%85%9C)</br>[Issue](https://github.com/rookedsysc/ruby-on-railgun/issues/2) |
 
     </details>
 
