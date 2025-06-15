@@ -1,9 +1,43 @@
 ## 안녕하세요 🙈
 
-| **Framework** |             [![My Skills](https://skillicons.dev/icons?i=spring,nestjs,flutter)](https://skillicons.dev)              |
-| :-----------: | :-------------------------------------------------------------------------------------------------------------------: |
-|   **Lang**    |            [![My Skills](https://skillicons.dev/icons?i=java,typescript,py,dart)](https://skillicons.dev)             |
-| **Database**  |              [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis)](https://skillicons.dev)              |
-|   **Infra**   | [![My Skills](https://skillicons.dev/icons?i=docker,grafana,prometheus,github,githubactions)](https://skillicons.dev) |
+<table>
+  <tr>
+    <td>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="75%" />
+<!-- 기술 스택 테이블 -->
+<table>
+  <tr>
+    <th>Framework</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,nestjs,flutter,fastapi" />
+    </td>
+  </tr>
+  <tr>
+    <th>Lang</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,typescript,py,dart" />
+    </td>
+  </tr>
+  <tr>
+    <th>Database</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+    </td>
+  </tr>
+  <tr>
+    <th>Infra</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,grafana,prometheus,github,githubactions" />
+    </td>
+  </tr>
+</table>
+
+</td>
+<td>
+
+<!-- 3D Contribution 이미지 -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400px" />
+
+</td>
+  </tr>
+</table>
